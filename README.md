@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## Code Review
 
 You can use the [editor on GitHub](https://github.com/cphanth/ePortfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+Here is the link to the code review I performed on three artifacts I worked on while pursuing my education at Southern New Hampshire University studying computer science. [click here] (https://youtu.be/KW-qXvNUJ6U) to view this in YouTube.
 
 ### Markdown
 
