@@ -13,6 +13,8 @@ Here is the link to the code review I performed on three artifacts I worked on w
 ## Software Design and Engineering Enhancement
 ### C++, OpenGL, ASSIMP, and Blender
 
+[![image](https://github.com/cphanth/ePortfolio/blob/master/icons/openGL.png)](https://github.com/cphanth/ePortfolio/tree/master/Artifact1_OpenGL_Burger/Burger)
+
 For my first artifact, I worked on improving my final project from my CS 330: Computational Graphics and Visualization course. For that course’s final project, I built a 3D cheeseburger with the ability to change the visual perspective by the user. Using hotkeys, the user could pan around the burger that was also rotating on its own. I took this course during the 20EW4 term. When uploaded this project, I had to remove the glm and SOIL2 folders from my project. You will need to add these items in to get the program to render the object. Moreover, you will need to set up the dependencies and libraries appropriately.
 
 I wanted to include this artifact in my ePortfolio, because I was excited to work on creating a better version of my 3D object. It would allow me to practice writing in C++, learn more about OpenGL, and work with the ASSIMP library. My previous work included pain-stakingly typing in every vertex point of every triangle that comprised my cheeseburger. Unsurprisingly, there were missing sides. I was able to successfully load a complete 3D cheeseburger with a (relatively) low polygon-count that I created on Blender from importing its .obj file. This was the most challenging part of the project and I relied heavily on reading from a the [LearnOpenGL](https://learnopengl.com/) website authored by Joey de Vries. I had to sort out and parse the different categories of data from Blender and use this to attach texture files to. The hotkeys for this project are "W" to zoom in, "S" to zoom out, "A" to pan left, and "D" to pan right.
@@ -22,6 +24,8 @@ I met the course I objectives I planned for myself with these enhancement. I imp
 ## Algorithms and Data Structures Enhancement
 ### Bottle Framework, Python, MongoDB, and yfinance Python package
 
+[![image](https://github.com/cphanth/ePortfolio/blob/master/icons/mongoDB.jpg)](https://github.com/cphanth/ePortfolio/tree/master/Artifact2_PythonBottleMongoDB)
+
 For my second artifact, I worked on improving my final project from my CS 340: Advanced Programming Concepts course. For that course’s final project, we needed to create a RESTful API web service using Python and MongoDB to implement a Stock Market program. I took this course during the 20EW5 term.
 
 I wanted to include this artifact in my ePortfolio in order to gain more experience writing code in Python and work with MongoDB. Moreover, I wanted practice working with other python packages. This project required using the yfinance package, pymongo, and the Bottle framework. Bottle is a good choice for creating small applications to create a quick prototype. For future projects, I plan to learn and incorporate using Flask and Django as these are more popular frameworks due to scalability, simplicity, and power/capabilities. My most difficult challenge was finding a way to import real-time and current data from the stock market to incorporate into my project. On top of the previous work I had done creating other queries and reports via a command line interface program, I added an additional feature to copmare the 50 and 200-Day Simple Moving Average (SMA) to analzye a particular stock company to consider wether it was a good time for purchasing stocks. The provided data in MongoDB that I received from my instructors had some glitches as I was ultimately able to update stock market information, however, some stock market companies held within my database do not exist in the present. My goal was to have all of the data update prior to starting the program, but after completing some trials so see how long it would take to update just a few stocks, I calculated the approximate time to update over 2,000 companies would take more than 3 hours! This was way too long, and my work around was to allow the user to pick a stock to inquire about and perform the data update on the spot. In the future, I would explore other options for drawing in data and using other finance APIs.
@@ -30,6 +34,8 @@ I met the course objectives and goals I created and the beginning of this term. 
 
 ## Databases Enhancement
 ### MySQL
+
+[![image](https://github.com/cphanth/ePortfolio/blob/master/icons/mySQL.png)](https://github.com/cphanth/ePortfolio/tree/master/Artifact3_MySQL)
 
 For my third artifact, I worked on expanding the knowledge-base and skills I gained from my DAD 220: Introduction to SQL course. For that course’s final project, we were required to create a new database from scratch, consisting of multiple tables. We also needed to populate the database, update records, and delete existing records to show our ability to implement CRUD function. We also created specific queries that applied to previous assignments.
 
