@@ -14,6 +14,7 @@ Here is the link to the code review I performed on three artifacts I worked on w
 ### C++, OpenGL, ASSIMP, and Blender
 
 [![image](https://github.com/cphanth/ePortfolio/blob/master/icons/openGL.png)](https://github.com/cphanth/ePortfolio/tree/master/Artifact1_OpenGL_Burger/Burger)
+<img src="cphanth/ePortfolio/blob/master/icons/openGL.png" class="img-responsive" alt=""> </div>
 
 For my first artifact, I worked on improving my final project from my CS 330: Computational Graphics and Visualization course. For that course’s final project, I built a 3D cheeseburger with the ability to change the visual perspective by the user. Using hotkeys, the user could pan around the burger that was also rotating on its own. I took this course during the 20EW4 term. When uploaded this project, I had to remove the glm and SOIL2 folders from my project. You will need to add these items in to get the program to render the object. Moreover, you will need to set up the dependencies and libraries appropriately.
 
