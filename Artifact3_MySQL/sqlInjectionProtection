@@ -1,0 +1,47 @@
+'''
+
+                    PROTECTING AGAINST SQL INJECTION
+
+'''
+# use parameterized statement
+
+'''
+    it is dangerous to concatenate user inputs with the sql
+    statement to execute as hackers can abuse the use to
+    quotation marks to write a query that is 'true' that
+    would allow them access to something where they did
+    not actually provide authorized credentials
+'''
+
+#EXAMPLE
+#string concatenation is dangerous
+cursor.execute("SELECT * FROM users WHERE password = '%s'" %password)
+
+for row in cursor.fetchall():
+    print row.user_id, row.user_name, row.account_balance
+'''
+    above, the hacker to provide a password input of something like
+    ' OR 1=1--
+    where the SQL statement has been altered and returns true due
+    to the OR 1=1 being true while ingoring the rest of the statement
+'''
+
+#it is good practice to parameterize inputs
+#SQL statement and input parameter are sent to database driver separately
+cursor.execute("SELECT * FROM users WHERE password = ?", password)
+
+for row in cursor.fetchall():
+    print row.user_id, row.user_name, row.account_balance
+    
+'''
+    above, the password input is sent to the driver separately from the
+    SQL statement to be verified prior to executing
+'''
+    
+'''
+    resources:
+    https://owasp.org/www-community/attacks/SQL_Injection
+    https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html
+    
+    https://cheatsheetseries.owasp.org/cheatsheets/Query_Parameterization_Cheat_Sheet.html
+'''
