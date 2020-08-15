@@ -24,7 +24,7 @@ I met the course I objectives I planned for myself with these enhancement. I imp
 ## Algorithms and Data Structures Enhancement
 ### Bottle Framework, Python, MongoDB, and yfinance Python package
 
-![image of mongoDB](icons/mongoDB.png)(https://github.com/cphanth/ePortfolio/tree/master/Artifact2_PythonBottleMongoDB)
+[![image of mongoDB](icons/mongoDB.png)](https://github.com/cphanth/ePortfolio/tree/master/Artifact2_PythonBottleMongoDB)
 
 For my second artifact, I worked on improving my final project from my CS 340: Advanced Programming Concepts course. For that course’s final project, we needed to create a RESTful API web service using Python and MongoDB to implement a Stock Market program. I took this course during the 20EW5 term.
 
@@ -35,7 +35,7 @@ I met the course objectives and goals I created and the beginning of this term. 
 ## Databases Enhancement
 ### MySQL
 
-![image of mysql icon](icons/mySQL.png)(https://github.com/cphanth/ePortfolio/tree/master/Artifact3_MySQL)
+[![image of mysql icon](icons/mySQL.png)](https://github.com/cphanth/ePortfolio/tree/master/Artifact3_MySQL)
 
 For my third artifact, I worked on expanding the knowledge-base and skills I gained from my DAD 220: Introduction to SQL course. For that course’s final project, we were required to create a new database from scratch, consisting of multiple tables. We also needed to populate the database, update records, and delete existing records to show our ability to implement CRUD function. We also created specific queries that applied to previous assignments.
 
