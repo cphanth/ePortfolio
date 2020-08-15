@@ -13,7 +13,7 @@ Here is the link to the code review I performed on three artifacts I worked on w
 ## Software Design and Engineering Enhancement
 ### C++, OpenGL, ASSIMP, and Blender
 
-![image](icons/openGL.png)(https://github.com/cphanth/ePortfolio/tree/master/Artifact1_OpenGL_Burger/Burger)
+[![image of opengl](icons/openGL.png)](https://github.com/cphanth/ePortfolio/tree/master/Artifact1_OpenGL_Burger/Burger)
 
 For my first artifact, I worked on improving my final project from my CS 330: Computational Graphics and Visualization course. For that course’s final project, I built a 3D cheeseburger with the ability to change the visual perspective by the user. Using hotkeys, the user could pan around the burger that was also rotating on its own. I took this course during the 20EW4 term. When uploaded this project, I had to remove the glm and SOIL2 folders from my project. You will need to add these items in to get the program to render the object. Moreover, you will need to set up the dependencies and libraries appropriately.
 
@@ -24,7 +24,7 @@ I met the course I objectives I planned for myself with these enhancement. I imp
 ## Algorithms and Data Structures Enhancement
 ### Bottle Framework, Python, MongoDB, and yfinance Python package
 
-![image](icons/mongoDB.jpg)(https://github.com/cphanth/ePortfolio/tree/master/Artifact2_PythonBottleMongoDB)
+![image of mongoDB](icons/mongoDB.png)(https://github.com/cphanth/ePortfolio/tree/master/Artifact2_PythonBottleMongoDB)
 
 For my second artifact, I worked on improving my final project from my CS 340: Advanced Programming Concepts course. For that course’s final project, we needed to create a RESTful API web service using Python and MongoDB to implement a Stock Market program. I took this course during the 20EW5 term.
 
