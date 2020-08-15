@@ -2,7 +2,7 @@
 My name is Christina and I am attaining a Bachelor's of Science from Southern New Hampshire University studying software engineering. Below is a showcase of my capstone work and narratives for each project to present what I was able to create and my learning process.
 
 ## Professional Assessment
-write things here
+write things here!
 
 ## Code Review
 
