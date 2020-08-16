@@ -1,9 +1,8 @@
 ## Welcome to my ePortfolio!
-My name is Christina and I am attaining a Bachelor's of Science from Southern New Hampshire University studying software engineering. Below is a showcase of my capstone work and narratives for each project to present what I was able to create and my learning process.
+My name is Christina and I am attaining a Bachelor's of Science from Southern New Hampshire University studying software engineering. Below is a showcase of my capstone work and narratives for each project to present what I was able to create and my learning process. You can click on the image logos to link to the project files.
 
 ## Professional Assessment
-write things here!
-
+The three artifacts presented here demonstrate profiency in different languages, databases, and data structures. I chose to work on separate projects to cast a wide net over various technologies that intrigued me the most during my studies with SNHU. The technologies highlighted include: C++ with OpenGL, Python with MongoDB, and MySQL. Working with these technologies allowed me to develop my skills with designing solutions for software engineering problems, parse data into lists and arrays, and experiment with maneuvering around SQL and NoSQL databases (MySQL and MongoDB).
 ## Code Review
 
 Here is the link to the code review I performed on three artifacts I worked on while pursuing my education at Southern New Hampshire University studying computer science. [click here](https://youtu.be/KW-qXvNUJ6U) to view this in YouTube or play the video down below. Thanks for watching!
